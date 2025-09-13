@@ -1,0 +1,7 @@
+{
+    "D0": "B1", // Hat shank
+    "G0": "E4", // China
+    "A0": "E0", // Snare - Snare Rimshot edge
+    "A#0": "F#0", // Snare - Snare side
+    "B0": "C0" // Kick
+}
